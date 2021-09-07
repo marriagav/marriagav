@@ -11,6 +11,4 @@ My name is Miguel Arriaga and I am obssesed with learning.
 
 ![Miguel´s github stats](https://github-readme-stats.vercel.app/api?username=marriagav&show_icons=true&theme=react&&hide_border=true)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marriagav&show_icons=true&theme=react&&hide_border=true)](https://github.com/marriagav/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marriagav&show_icons=true&theme=react&&hide_border=true)
