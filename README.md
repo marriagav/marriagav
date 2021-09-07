@@ -8,7 +8,6 @@ My name is Miguel Arriaga and I am obssesed with learning.
 ## Github Stats
 
 <div align="center">
-
-![Miguel´s github stats](https://github-readme-stats.vercel.app/api?username=marriagav&show_icons=true&theme=react&&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marriagav&show_icons=true&theme=react&&hide_border=true)
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=marriagav&layout=compact&count_private=true&theme=react&&hide_border=true&show_icons=true"> 
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marriagav&count_private=true&layout=compact&theme=react&&hide_border=true"> 
