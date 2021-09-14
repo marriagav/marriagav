@@ -6,8 +6,4 @@ My name is Miguel Arriaga and I am obssesed with learning.
 - Self learning: Web development
 
 ### Github Stats
-
-<div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=marriagav&layout=compact&count_private=true&theme=react&&hide_border=true&show_icons=true"> 
-<div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marriagav&count_private=true&layout=compact&theme=react&&hide_border=true"> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marriagav&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marriagav&count_private=true&layout=compact&theme=react&&hide_border=true"> 
