@@ -13,11 +13,8 @@ My name is Miguel Arriaga and I am obssesed with learning.
 
 <div align="center">
 
-<a href="https://github.com/marriagav/github-stats">
-
 ![](https://github.com/marriagav/mystats/blob/master/generated/overview.svg)
 ![](https://github.com/marriagav/mystats/blob/master/generated/languages.svg)
 
-</a>
 
 </div>
