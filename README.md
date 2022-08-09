@@ -2,7 +2,7 @@
 
 My name is Miguel and I am obssesed with learning.
 - Studying: Computer Science
-- Strengths: C++, Python, Data Structures and Algorithms, OOP
+- Strengths: C++, Python, Data Structures and Algorithms, OOP, IOs development, Objective C
 - Self learning: Web development
 
 ### My GitHub Stats:
