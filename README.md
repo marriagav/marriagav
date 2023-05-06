@@ -14,8 +14,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="TypeScript"
        />
        <br /><strong>TypeScript</strong>
@@ -23,8 +23,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="React"
        />
        <br /><strong>React</strong>
@@ -32,8 +32,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="Tailwind"
        />
        <br /><strong>Tailwind</strong>
@@ -41,8 +41,8 @@ My name is Miguel and I am obssesed with learning.
     <td align="center" height="54" width="54">
        <img
          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="CSS"
        />
        <br /><strong>CSS</strong>
@@ -50,8 +50,8 @@ My name is Miguel and I am obssesed with learning.
     <td align="center" height="54" width="54">
        <img
          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="HTML"
        />
        <br /><strong>HTML</strong>
@@ -59,8 +59,8 @@ My name is Miguel and I am obssesed with learning.
     <td align="center" height="54" width="54">
        <img
          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/objectivec/objectivec-plain.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="Objective C"
        />
        <br /><strong>Objective C</strong>
@@ -68,8 +68,8 @@ My name is Miguel and I am obssesed with learning.
     <td align="center" height="54" width="54">
        <img
          src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="C++"
        />
        <br /><strong>C++</strong>
@@ -79,8 +79,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="Node.js"
        />
        <br /><strong>Node.js</strong>
@@ -88,8 +88,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="Express"
        />
        <br /><strong>Express</strong>
@@ -97,8 +97,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="MongoDB"
        />
        <br /><strong>MongoDB</strong>
@@ -106,8 +106,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="PostgreSQL"
        />
        <br /><strong>PostgreSQL</strong>
@@ -115,8 +115,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="Firebase"
        />
        <br /><strong>Firebase</strong>
@@ -124,8 +124,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="Python"
        />
        <br /><strong>Python</strong>
@@ -133,8 +133,8 @@ My name is Miguel and I am obssesed with learning.
      <td align="center" height="54" width="54">
        <img
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-         width="24"
-         height="24"
+         width="30"
+         height="30"
          alt="Docker"
        />
        <br /><strong>Docker</strong>
