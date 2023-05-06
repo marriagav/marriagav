@@ -63,7 +63,7 @@ My name is Miguel and I am obssesed with learning.
          height="48"
          alt="Objective C"
        />
-       <br /><strong>Objective C</strong>
+       <br /><strong>Obj C</strong>
      </td>
     <td align="center" height="90" width="90">
        <img
